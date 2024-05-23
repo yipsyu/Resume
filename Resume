@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <font color="#00000">
+      <h3>
+        <center>Nia Olivier</center>
+      </h3>
+      <h4>
+        Nia P. Olivier
+        <br>
+        Newark, New Jersey <br>
+        07104<br>
+        (347) 771 0375
+        <br>
+        niaolivier@gmail.com
+        <br><br><br>
+      </h4>
+    </font>
+  </head>
+  <center>
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3ab4d1de-3cf7-4212-9f90-090ccb0ef875/dg91lpj-cda4248e-860f-44c4-80c2-b671e56c332b.png/v1/fill/w_384,h_384/my_melody_by_lettejuicyc12_dg91lpj-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mzg0IiwicGF0aCI6IlwvZlwvM2FiNGQxZGUtM2NmNy00MjEyLTlmOTAtMDkwY2NiMGVmODc1XC9kZzkxbHBqLWNkYTQyNDhlLTg2MGYtNDRjNC04MGMyLWI2NzFlNTZjMzMyYi5wbmciLCJ3aWR0aCI6Ijw9Mzg0In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.UnMW6NDPiGRCNARHKQM6LyziZvc3Wor_ed-0jkBjIXM" width="60" height="50">
+  </center>
+
+  <body>
+    <font color="#00000">
+      <b>
+        OBJECTIVE<br><br>
+      </b>
+
+      I am a highschool student trying to obtain a career in digital art
+
+      <br><br>
+
+      <b>
+        EDUCATION<br><br>
+      </b>
+      Newark School of Data Science and Information Technology <br>
+      Achieve Community Charter School 2021 - 2022<br>
+      Newark, New Jersey<br>
+      Expected Graduation: June 2026<br>
+      G.P.A- 3.3<br>
+      Extracurricular Activities: Geometry tutoring
+      <br><br>
+      <b>
+        EXPERIENCE/INTERNSHIP<br><br>
+      </b>
+      <li>Google - 1 week
+        Graphic Design
+      </li>
+
+      <br><br>
+
+      <b>
+        SKILLS<br><br>
+      </b>
+      <li>Experience in Traditional and Digital Art</li><br>
+      <li>Writing *stories*</li><br>
+      <li>Multitasking</li><br>
+      <li> Listening Skills</li><br>
+      <li>Botanist</li><br><br>
+      <b>
+        AWARDS/EXTRACURRICULAR<br><br>
+      </b>
+      <li>Soccer</li><br>
+      <li>Vice President of the Student Council - 8th grade</li><br>
+      <li>Tutoring - 2020 to 2022</li><br>
+      <li>Football</li>
+      <center>
+        <img src="https://art.pixilart.com/thumb/sr2e6170389e6a0.png" width="60" height="50">
+      </center>
+      <style>
+        body {
+          background-color: #B969C2
+        }
+
+      </style>
+    </font>
+
+  </body>
+
+</html>
