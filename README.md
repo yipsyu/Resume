@@ -1,1 +1,1 @@
-# resume.github.io
+# Resume.github.io
